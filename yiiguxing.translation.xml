@@ -1,0 +1,71 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="implements" />
+      <item value="Illegal character in scheme name at index 0:" />
+      <item value="Illegal State Exception" />
+      <item value="Ambiguous handler methods mapped for" />
+      <item value="bits random bits" />
+      <item value="The seed is the initial value of the internal state of the pseudorandom * number generator which is maintained by method {@link #next}." />
+      <item value="Creates a new random number generator using a single {@code long} seed." />
+      <item value="syntax error, pos 1, line 1, column 2" />
+      <item value="cannot be cast to" />
+      <item value="with root cause" />
+      <item value="matches" />
+      <item value="Stack Overflow Error" />
+      <item value="java.lang.StackOverflowError: null" />
+      <item value="java.lang.IllegalStateException: Cannot call sendError() after the response has been committed" />
+      <item value="notify" />
+      <item value="门闩" />
+      <item value="MICROSECONDS" />
+      <item value="NANOSECONDS" />
+      <item value="MILLISECONDS" />
+      <item value="join" />
+      <item value="SECONDS" />
+      <item value="concurrent" />
+      <item value="synchronized" />
+      <item value="must be unique" />
+      <item value="Failed to read artifact descriptor for" />
+      <item value="Process terminated" />
+      <item value="FETCH" />
+      <item value="PLAYAUTH" />
+      <item value="FETCH VIDEO PLAYAUTH ERROR" />
+      <item value="Specified time stamp or date value is expired." />
+      <item value="Invalid Time Stamp.Expired" />
+      <item value="Failed to parse configuration class" />
+      <item value="TOMCAT" />
+      <item value="Invalid bound statement (not found)" />
+      <item value="nested exception is java.lang.NumberFormatException:" />
+      <item value="Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long';" />
+      <item value="For input string: &quot;course-info&quot;" />
+      <item value="Unknown column 'avatar' in 'field list'" />
+      <item value="Registered Applications size is zero : true" />
+      <item value="Disable delta property : false" />
+      <item value="and 'parent.relativePath' points at no local POM" />
+      <item value="Could not find artifact" />
+      <item value="Non-resolvable parent POM for" />
+      <item value="The build could not read 1 project -&gt; [Help 1]" />
+      <item value="june" />
+      <item value="EurekaServerApplication: Failed to retrieve application JMX service URL" />
+      <item value="Cannot execute request on any known server" />
+      <item value="The field file exceeds its maximum permitted size of 1048576 bytes." />
+      <item value="The &lt;tt&gt;mode&lt;/tt&gt; argument specifies the access mode with which the * file is to be opened. The permitted values and their meanings are as * specified for the" />
+      <item value="if the mode argument is not equal * to one of" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="463" />
+        <entry key="ENGLISH" value="464" />
+        <entry key="FRENCH" value="1" />
+        <entry key="CATALAN" value="2" />
+        <entry key="LATIN" value="1" />
+        <entry key="ROMANIAN" value="2" />
+        <entry key="BENGALI" value="1" />
+        <entry key="SPANISH" value="1" />
+        <entry key="ITALIAN" value="3" />
+        <entry key="INDONESIAN" value="1" />
+        <entry key="VIETNAMESE" value="1" />
+      </map>
+    </option>
+  </component>
+</application>

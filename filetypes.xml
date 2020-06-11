@@ -1,0 +1,23 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="woff" type="PLAIN_TEXT" />
+      <mapping ext="eot" type="PLAIN_TEXT" />
+      <mapping ext="gz" type="PLAIN_TEXT" />
+      <mapping ext="woff2" type="PLAIN_TEXT" />
+      <mapping ext="ini" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <mapping pattern="HotelManagement" type="SQL" />
+      <mapping pattern="BookingMapper" type="XML" />
+      <mapping pattern="RoomMsgMapper" type="XML" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="snakefile" approved="true" type="textmate" />
+    </extensionMap>
+  </component>
+</application>

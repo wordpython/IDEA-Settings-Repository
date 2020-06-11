@@ -1,0 +1,19 @@
+<templateSet group="wordpython">
+  <template name="pv" value="$annotation$&#10;public void $method$(){&#10;    $END$&#10;}" description="public void" toReformat="false" toShortenFQNames="true">
+    <variable name="annotation" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="method" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="sys" value="System.out::println" description="System.out::println" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="syst" value="System.out::print" description="System.out::print" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
