@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Bar" />
+      <item value="Support" />
       <item value="Fragment" />
       <item value="Inflate the layout for this fragment" />
       <item value="Replace with your own action" />
@@ -49,13 +51,11 @@
       <item value="Non-resolvable parent POM for" />
       <item value="The build could not read 1 project -&gt; [Help 1]" />
       <item value="june" />
-      <item value="EurekaServerApplication: Failed to retrieve application JMX service URL" />
-      <item value="Cannot execute request on any known server" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="468" />
-        <entry key="ENGLISH" value="469" />
+        <entry key="CHINESE" value="470" />
+        <entry key="ENGLISH" value="471" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="2" />
         <entry key="LATIN" value="1" />
