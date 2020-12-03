@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Spring Application" />
       <item value="临时" />
       <item value="普通" />
       <item value="duration" />
@@ -50,12 +51,11 @@
       <item value="Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long';" />
       <item value="For input string: &quot;course-info&quot;" />
       <item value="Unknown column 'avatar' in 'field list'" />
-      <item value="Registered Applications size is zero : true" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="477" />
-        <entry key="ENGLISH" value="477" />
+        <entry key="ENGLISH" value="478" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="2" />
         <entry key="LATIN" value="1" />
