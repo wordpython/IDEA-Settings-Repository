@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Field testService in com.ly.education.practice.training.server.controller.TestController required a bean of type 'com.ly.education.practice.training.server.service.TestService' that could not be found. Action: Consider defining a bean of type 'com.ly.education.practice.training.server.service.TestService' in your configuration." />
       <item value="Spring Application" />
       <item value="临时" />
       <item value="普通" />
@@ -50,12 +51,11 @@
       <item value="nested exception is java.lang.NumberFormatException:" />
       <item value="Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long';" />
       <item value="For input string: &quot;course-info&quot;" />
-      <item value="Unknown column 'avatar' in 'field list'" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="478" />
-        <entry key="ENGLISH" value="478" />
+        <entry key="ENGLISH" value="479" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="2" />
         <entry key="LATIN" value="1" />
