@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="available" />
+      <item value="No qualifying bean of type" />
       <item value="Action" />
       <item value="Consider defining a bean of type 'com.ly.education.practice.training.server.service.TestService' in your configuration." />
       <item value="Field testService in com.ly.education.practice.training.server.controller.TestController required a bean of type 'com.ly.education.practice.training.server.service.TestService' that could not be found. Action: Consider defining a bean of type 'com.ly.education.practice.training.server.service.TestService' in your configuration." />
@@ -49,13 +51,11 @@
       <item value="Invalid Time Stamp.Expired" />
       <item value="Failed to parse configuration class" />
       <item value="TOMCAT" />
-      <item value="Invalid bound statement (not found)" />
-      <item value="nested exception is java.lang.NumberFormatException:" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="480" />
-        <entry key="ENGLISH" value="481" />
+        <entry key="CHINESE" value="482" />
+        <entry key="ENGLISH" value="483" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="2" />
         <entry key="LATIN" value="1" />
