@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Practical" />
+      <item value="Practical Application Inquiry" />
+      <item value="Practical Application Inquiry Resource" />
       <item value="Api Param" />
       <item value="Path Variable" />
       <item value="TNS:listener does not currently know of service requested in connect descriptor" />
@@ -48,9 +51,6 @@
       <item value="java.lang.StackOverflowError: null" />
       <item value="java.lang.IllegalStateException: Cannot call sendError() after the response has been committed" />
       <item value="notify" />
-      <item value="门闩" />
-      <item value="MICROSECONDS" />
-      <item value="NANOSECONDS" />
     </histories>
     <option name="languageScores">
       <map>
