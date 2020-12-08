@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Api Param" />
+      <item value="Path Variable" />
       <item value="TNS:listener does not currently know of service requested in connect descriptor" />
       <item value="Listener refused the connection with the following error:" />
       <item value="备注" />
@@ -49,17 +51,16 @@
       <item value="门闩" />
       <item value="MICROSECONDS" />
       <item value="NANOSECONDS" />
-      <item value="MILLISECONDS" />
-      <item value="join" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="495" />
-        <entry key="ENGLISH" value="496" />
+        <entry key="CHINESE" value="497" />
+        <entry key="ENGLISH" value="497" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="2" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="2" />
+        <entry key="MALAY" value="1" />
         <entry key="BENGALI" value="1" />
         <entry key="SPANISH" value="1" />
         <entry key="ITALIAN" value="3" />
