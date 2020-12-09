@@ -1,12 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Looking up handler method for path" />
+      <item value="Path Variable" />
       <item value="Cross Origin" />
       <item value="Practical" />
       <item value="Practical Application Inquiry" />
       <item value="Practical Application Inquiry Resource" />
       <item value="Api Param" />
-      <item value="Path Variable" />
       <item value="TNS:listener does not currently know of service requested in connect descriptor" />
       <item value="Listener refused the connection with the following error:" />
       <item value="备注" />
@@ -50,12 +51,11 @@
       <item value="matches" />
       <item value="Stack Overflow Error" />
       <item value="java.lang.StackOverflowError: null" />
-      <item value="java.lang.IllegalStateException: Cannot call sendError() after the response has been committed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="497" />
-        <entry key="ENGLISH" value="498" />
+        <entry key="CHINESE" value="499" />
+        <entry key="ENGLISH" value="500" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="2" />
         <entry key="LATIN" value="1" />
