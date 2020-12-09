@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Api Model Property" />
       <item value="Looking up handler method for path" />
       <item value="Path Variable" />
       <item value="Cross Origin" />
@@ -50,11 +51,10 @@
       <item value="with root cause" />
       <item value="matches" />
       <item value="Stack Overflow Error" />
-      <item value="java.lang.StackOverflowError: null" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="499" />
+        <entry key="CHINESE" value="500" />
         <entry key="ENGLISH" value="500" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="2" />
@@ -64,7 +64,7 @@
         <entry key="BENGALI" value="1" />
         <entry key="SPANISH" value="1" />
         <entry key="ITALIAN" value="3" />
-        <entry key="INDONESIAN" value="1" />
+        <entry key="INDONESIAN" value="2" />
         <entry key="VIETNAMESE" value="1" />
       </map>
     </option>
