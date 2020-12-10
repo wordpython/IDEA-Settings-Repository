@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Practical Application Inquery" />
       <item value="Api Model Property" />
       <item value="Looking up handler method for path" />
       <item value="Path Variable" />
@@ -50,12 +51,11 @@
       <item value="cannot be cast to" />
       <item value="with root cause" />
       <item value="matches" />
-      <item value="Stack Overflow Error" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="500" />
-        <entry key="ENGLISH" value="500" />
+        <entry key="ENGLISH" value="501" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="2" />
         <entry key="LATIN" value="1" />
