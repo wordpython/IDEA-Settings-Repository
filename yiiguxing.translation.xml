@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Apply Person Practice" />
       <item value="get Attribute Names For Order By" />
       <item value="Api Model Property" />
       <item value="For debugging purposes only (not an error)" />
@@ -50,12 +51,11 @@
       <item value="Illegal State Exception" />
       <item value="Ambiguous handler methods mapped for" />
       <item value="bits random bits" />
-      <item value="The seed is the initial value of the internal state of the pseudorandom * number generator which is maintained by method {@link #next}." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="506" />
-        <entry key="ENGLISH" value="507" />
+        <entry key="CHINESE" value="507" />
+        <entry key="ENGLISH" value="508" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="2" />
         <entry key="LATIN" value="1" />
