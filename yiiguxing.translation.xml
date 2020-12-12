@@ -1,12 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Api Model Property" />
       <item value="For debugging purposes only (not an error)" />
       <item value="Mapped Statements collection already contains" />
       <item value="Mapped Statements collection already contains value for" />
       <item value="fill Creator And Create Time" />
       <item value="Practical Application Inquery" />
-      <item value="Api Model Property" />
       <item value="Looking up handler method for path" />
       <item value="Path Variable" />
       <item value="Cross Origin" />
@@ -54,7 +54,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="505" />
+        <entry key="CHINESE" value="506" />
         <entry key="ENGLISH" value="506" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="2" />
@@ -64,7 +64,7 @@
         <entry key="BENGALI" value="1" />
         <entry key="SPANISH" value="1" />
         <entry key="ITALIAN" value="3" />
-        <entry key="INDONESIAN" value="2" />
+        <entry key="INDONESIAN" value="3" />
         <entry key="VIETNAMESE" value="1" />
       </map>
     </option>
