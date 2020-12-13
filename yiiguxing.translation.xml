@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="practice Result Id" />
       <item value="Could not read JSON document: Illegal unquoted character ((CTRL-CHAR, code 9)): has to be escaped using backslash to be included in string value" />
       <item value="Apply Person Practice" />
       <item value="get Attribute Names For Order By" />
@@ -50,12 +51,11 @@
       <item value="implements" />
       <item value="Illegal character in scheme name at index 0:" />
       <item value="Illegal State Exception" />
-      <item value="Ambiguous handler methods mapped for" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="508" />
-        <entry key="ENGLISH" value="509" />
+        <entry key="CHINESE" value="509" />
+        <entry key="ENGLISH" value="510" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="2" />
         <entry key="LATIN" value="1" />
