@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="hint: its remote counterpart. Integrate the remote changes (e.g." />
+      <item value="hint: 'git pull ...') before pushing again." />
+      <item value="hint: See the 'Note about fast-forwards' in 'git push --help' for details." />
       <item value="practice Result Id" />
       <item value="Could not read JSON document: Illegal unquoted character ((CTRL-CHAR, code 9)): has to be escaped using backslash to be included in string value" />
       <item value="Apply Person Practice" />
@@ -48,14 +51,11 @@
       <item value="Fragment" />
       <item value="Inflate the layout for this fragment" />
       <item value="Replace with your own action" />
-      <item value="implements" />
-      <item value="Illegal character in scheme name at index 0:" />
-      <item value="Illegal State Exception" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="509" />
-        <entry key="ENGLISH" value="510" />
+        <entry key="CHINESE" value="512" />
+        <entry key="ENGLISH" value="513" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="2" />
         <entry key="LATIN" value="1" />
