@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="table Name" />
+      <item value="table Row Id" />
       <item value="Api Param" />
       <item value="Attachment" />
       <item value="attachment" />
@@ -49,13 +51,11 @@
       <item value="round Icon" />
       <item value="navigate" />
       <item value="Bar" />
-      <item value="Support" />
-      <item value="Fragment" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="515" />
-        <entry key="ENGLISH" value="515" />
+        <entry key="CHINESE" value="516" />
+        <entry key="ENGLISH" value="517" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="2" />
         <entry key="LATIN" value="1" />
