@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Attachment" />
+      <item value="attachment" />
       <item value="hint: its remote counterpart. Integrate the remote changes (e.g." />
       <item value="hint: 'git pull ...') before pushing again." />
       <item value="hint: See the 'Note about fast-forwards' in 'git push --help' for details." />
@@ -49,13 +51,11 @@
       <item value="Bar" />
       <item value="Support" />
       <item value="Fragment" />
-      <item value="Inflate the layout for this fragment" />
-      <item value="Replace with your own action" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="512" />
-        <entry key="ENGLISH" value="513" />
+        <entry key="CHINESE" value="514" />
+        <entry key="ENGLISH" value="515" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="2" />
         <entry key="LATIN" value="1" />
