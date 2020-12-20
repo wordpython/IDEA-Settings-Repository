@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="process Code" />
       <item value="Api Implicit Param" />
       <item value="extension" />
       <item value="table Name" />
@@ -50,12 +51,11 @@
       <item value="普通" />
       <item value="duration" />
       <item value="Char Sequence" />
-      <item value="round Icon" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="519" />
-        <entry key="ENGLISH" value="520" />
+        <entry key="CHINESE" value="520" />
+        <entry key="ENGLISH" value="521" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="2" />
         <entry key="LATIN" value="1" />
