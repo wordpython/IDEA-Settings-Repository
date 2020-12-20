@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="apply Process" />
+      <item value="'apply Process" />
+      <item value="Cause" />
+      <item value="Could not set property 'applyProcessId' of" />
+      <item value="apply" />
+      <item value="apply Process Id" />
       <item value="This breaks the JavaBeans specification and can cause unpredictable results." />
       <item value="This breaks the JavaBeans specification and can cause unpredictable results. at org.apache.ibatis.reflection.Reflector.resolveGetterConflicts(Reflector.java:140)" />
       <item value="Practice Interim" />
@@ -45,17 +51,11 @@
       <item value="Practical Application Inquery" />
       <item value="Looking up handler method for path" />
       <item value="Path Variable" />
-      <item value="Cross Origin" />
-      <item value="Practical" />
-      <item value="Practical Application Inquiry" />
-      <item value="Practical Application Inquiry Resource" />
-      <item value="TNS:listener does not currently know of service requested in connect descriptor" />
-      <item value="Listener refused the connection with the following error:" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="539" />
-        <entry key="ENGLISH" value="540" />
+        <entry key="CHINESE" value="545" />
+        <entry key="ENGLISH" value="546" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="2" />
         <entry key="LATIN" value="1" />
