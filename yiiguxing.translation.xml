@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="This breaks the JavaBeans specification and can cause unpredictable results." />
+      <item value="This breaks the JavaBeans specification and can cause unpredictable results. at org.apache.ibatis.reflection.Reflector.resolveGetterConflicts(Reflector.java:140)" />
       <item value="Practice Interim" />
       <item value="结束标志" />
       <item value="流程号" />
@@ -49,13 +51,11 @@
       <item value="Practical Application Inquiry Resource" />
       <item value="TNS:listener does not currently know of service requested in connect descriptor" />
       <item value="Listener refused the connection with the following error:" />
-      <item value="更新时间" />
-      <item value="审批结果" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="536" />
-        <entry key="ENGLISH" value="537" />
+        <entry key="CHINESE" value="539" />
+        <entry key="ENGLISH" value="540" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="2" />
         <entry key="LATIN" value="1" />
