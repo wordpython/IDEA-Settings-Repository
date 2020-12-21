@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns the index within this string of the first occurrence of the * specified substring." />
       <item value="Concatenates the specified string to the end of this string." />
       <item value="concat" />
       <item value="applicant" />
@@ -50,12 +51,11 @@
       <item value="For debugging purposes only (not an error)" />
       <item value="Mapped Statements collection already contains" />
       <item value="Mapped Statements collection already contains value for" />
-      <item value="fill Creator And Create Time" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="548" />
-        <entry key="ENGLISH" value="549" />
+        <entry key="CHINESE" value="549" />
+        <entry key="ENGLISH" value="550" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="2" />
         <entry key="LATIN" value="1" />
