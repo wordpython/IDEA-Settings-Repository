@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Concatenates the specified string to the end of this string." />
+      <item value="concat" />
       <item value="applicant" />
       <item value="apply Process" />
       <item value="'apply Process" />
@@ -49,13 +51,11 @@
       <item value="Mapped Statements collection already contains" />
       <item value="Mapped Statements collection already contains value for" />
       <item value="fill Creator And Create Time" />
-      <item value="Practical Application Inquery" />
-      <item value="Looking up handler method for path" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="546" />
-        <entry key="ENGLISH" value="547" />
+        <entry key="CHINESE" value="548" />
+        <entry key="ENGLISH" value="549" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="2" />
         <entry key="LATIN" value="1" />
