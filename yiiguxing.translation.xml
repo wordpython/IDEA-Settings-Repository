@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Could not find default TaskScheduler bean" />
       <item value="COALESCE" />
       <item value="revert" />
       <item value="Required String parameter 'fileId' is not present" />
@@ -50,12 +51,11 @@
       <item value="hint: See the 'Note about fast-forwards' in 'git push --help' for details." />
       <item value="practice Result Id" />
       <item value="Could not read JSON document: Illegal unquoted character ((CTRL-CHAR, code 9)): has to be escaped using backslash to be included in string value" />
-      <item value="Apply Person Practice" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="555" />
-        <entry key="ENGLISH" value="556" />
+        <entry key="CHINESE" value="556" />
+        <entry key="ENGLISH" value="557" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="2" />
         <entry key="LATIN" value="1" />
