@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="COALESCE" />
       <item value="revert" />
       <item value="Required String parameter 'fileId' is not present" />
       <item value="Could not find acceptable representation" />
@@ -50,12 +51,11 @@
       <item value="practice Result Id" />
       <item value="Could not read JSON document: Illegal unquoted character ((CTRL-CHAR, code 9)): has to be escaped using backslash to be included in string value" />
       <item value="Apply Person Practice" />
-      <item value="get Attribute Names For Order By" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="554" />
-        <entry key="ENGLISH" value="555" />
+        <entry key="CHINESE" value="555" />
+        <entry key="ENGLISH" value="556" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="2" />
         <entry key="LATIN" value="1" />
