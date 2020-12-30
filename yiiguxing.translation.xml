@@ -1,8 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="accessory" />
       <item value="Could not find default TaskScheduler bean" />
+      <item value="accessory" />
       <item value="COALESCE" />
       <item value="revert" />
       <item value="Required String parameter 'fileId' is not present" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="557" />
-        <entry key="ENGLISH" value="558" />
+        <entry key="CHINESE" value="558" />
+        <entry key="ENGLISH" value="559" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="2" />
         <entry key="LATIN" value="1" />
