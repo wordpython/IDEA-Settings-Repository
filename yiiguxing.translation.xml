@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="practice Result" />
+      <item value="practice Results" />
       <item value="Sex" />
       <item value="Request Param" />
       <item value="Could not find default TaskScheduler bean" />
@@ -49,13 +51,11 @@
       <item value="Api Param" />
       <item value="Attachment" />
       <item value="attachment" />
-      <item value="hint: its remote counterpart. Integrate the remote changes (e.g." />
-      <item value="hint: 'git pull ...') before pushing again." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="560" />
-        <entry key="ENGLISH" value="561" />
+        <entry key="CHINESE" value="562" />
+        <entry key="ENGLISH" value="563" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="2" />
         <entry key="LATIN" value="1" />
