@@ -1,7 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Practice Weekly Vo Map" />
+      <item value="set" />
+      <item value="Error attempting to get column 'KSSJ' from result set" />
       <item value="argument type mismatch" />
+      <item value="Argument" />
+      <item value="Illegal Argument Exception" />
       <item value="实践情况" />
       <item value="practice Result" />
       <item value="practice Results" />
@@ -46,16 +51,11 @@
       <item value="send Approval" />
       <item value="approval" />
       <item value="process Code" />
-      <item value="Api Implicit Param" />
-      <item value="extension" />
-      <item value="table Name" />
-      <item value="table Row Id" />
-      <item value="Api Param" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="563" />
-        <entry key="ENGLISH" value="564" />
+        <entry key="CHINESE" value="566" />
+        <entry key="ENGLISH" value="567" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="2" />
         <entry key="LATIN" value="1" />
